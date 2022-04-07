@@ -1,5 +1,6 @@
 ## Links
 - Linktree:         https://linktr.ee/LocalPetition
+- PayPal:           https://www.paypal.com/donate/?hosted_button_id=L4FDWZVU9AXK6
 ##
 - Live-Version:     https://app.onecom.io/
 - Prototype:        https://prototyp.lokalpetition.de
