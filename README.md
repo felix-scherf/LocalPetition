@@ -3,7 +3,7 @@
 ## Links
 - Linktree:         https://linktr.ee/LocalPetition
 - PayPal:           https://www.paypal.com/donate/?hosted_button_id=L4FDWZVU9AXK6
-- 
+
 ##
 - German landingpage:      http://lokalpetition.de
 - International landingpage:    http://localpetition.org
