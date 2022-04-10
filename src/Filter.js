@@ -142,9 +142,9 @@ export const Filter = () => {
 					src={require('./img/info-circle.svg')} /></Link> Abstimmfilter: </strong></h3>
 				<br />
 				<div className="btn-group">
-					<button className="btn btn-success left-menu">Relevante Votes</button>
+					<button className="btn btn-success left-menu-filter">Relevante Votes</button>
 
-					<button type="button" className="btn btn-success right-menu"><strong>Votes insgesamt</strong></button>
+					<button type="button" className="btn btn-success right-menu-filter"><strong>Votes insgesamt</strong></button>
 				</div>
 				<div className="horzontal-rule-general">
 					<hr />

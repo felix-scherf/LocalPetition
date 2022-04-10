@@ -83,19 +83,25 @@ export const Settings = () => {
 
 				<Link to="/teilen"> <button
 					className="btn btn-success btn-lg button border-black"  >Freunde
-					einladen</button> </Link> <br /> <br />
-				<a href="https://lokalpetition.de/info/">  <button
-					className="btn btn-success btn-lg button border-black" >Info</button> </a> <br /> <br />
+					einladen 👥</button> </Link> <br /> <br />
+				<a href="https://lokalpetition.de/fragen/">  <button
+					className="btn btn-success btn-lg button border-black" >Fragen❔</button> </a> <br /> <br />
 				<a href="https://lokalpetition.de/kontakt/"> <button
-					className="btn btn-success btn-lg button border-black"  >Kontaktiere uns</button> </a>
+					className="btn btn-success btn-lg button border-black"  >Kontaktiere uns 📩</button> </a>
+				<br /> <br />
+				<a href="https://github.com/LocalPetition-Developer/LocalPetition"> <button
+					className="btn btn-success btn-lg button border-black"  >Code 💻</button> </a>
+				<br /> <br />
+				<a href="https://www.paypal.com/donate/?hosted_button_id=D6VXHJ7G7RCYU"> <button
+					className="btn btn-success btn-lg button border-black"  >Unterstütze uns mit einer Spende! 💸</button> </a>
 				<div className="horzontal-rule-general">
 					<hr />
-
+					
 				</div>
 				<br />
 
 
-			
+
 				<p > <Link className="black" to="/impressum"><strong> Impressum </strong> </Link></p>
 				<p> <Link className="black" to="/datenschutz"><strong>Datenschutzerklärung</strong></Link></p>
 

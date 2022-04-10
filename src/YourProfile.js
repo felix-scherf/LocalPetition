@@ -6,7 +6,7 @@ import * as React from 'react';
 
 import FormControl from '@mui/material/FormControl';
 
-import Input from '@mui/material/Input';
+
 import InputLabel from '@mui/material/InputLabel';
 
 import InputAdornment from '@mui/material/InputAdornment';
@@ -110,7 +110,7 @@ export const YourProfile = () => {
 							sx={{ m: 1, width: '18ch' }}
 							color="success"
 							InputProps={{
-								startAdornment: <InputAdornment position="start"><img className="link-profile" src={require('./img/link.svg')} /></InputAdornment>,
+								startAdornment: <InputAdornment position="start"><img className="link-your-profile" src={require('./img/link.svg')} /></InputAdornment>,
 							}}
 						/>
 
@@ -122,7 +122,7 @@ export const YourProfile = () => {
 							sx={{ m: 1, width: '18ch' }}
 							color="success"
 							InputProps={{
-								startAdornment: <InputAdornment position="start"><img className="location-marker-profile" src={require('./img/location-marker-profile.svg')} /></InputAdornment>,
+								startAdornment: <InputAdornment position="start"><img className="location-marker-your-profile" src={require('./img/location-marker-profile.svg')} /></InputAdornment>,
 							}}
 						/>
 					</div>
