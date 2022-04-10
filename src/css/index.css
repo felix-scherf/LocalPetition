@@ -69,6 +69,21 @@ body {
   border-top-left-radius: 50px;
   border-bottom-left-radius: 50px;
   border-color: black;
+  background-color: #116b26;
+
+}
+.left-menu-filter {
+
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-color: black;
+}
+.right-menu-filter {
+
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-color: black;
+  background-color: #116b26;
 }
 .middle-menu {
   border-color: black;
@@ -532,9 +547,9 @@ body {
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
 }
 .horzontal-rule-general {
-max-width: 375px;
-margin-left: auto;
-margin-right: auto;
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .interaction-bar {
   display: flex;
@@ -584,7 +599,7 @@ margin-right: auto;
   left: 5px;
 }
 .slider {
- max-width: 330px;
+  max-width: 330px;
 }
 .share-crowdfunding {
   float: right;
@@ -629,14 +644,23 @@ margin-right: auto;
 }
 .location-marker-profile {
   position: relative;
-
+bottom: 1px;
+  left: 1px;
+}
+.location-marker-your-profile {
+  position: relative;
+  
   right: 2px;
 }
 .link-profile {
-  
+  position: relative;
+  left: 0px;
+ 
+}
+
+.link-your-profile {
   position: relative;
   right: 2px;
-  
 }
 .margin-bottom {
   margin-bottom: 8px;
@@ -712,7 +736,6 @@ margin-right: auto;
   }
 }
 
-
 @media (min-width: 900px) {
   .petition-picture {
     width: 60%;
@@ -752,7 +775,7 @@ margin-right: auto;
     padding-left: 270px;
     padding-right: 270px;
   }
- 
+
   .share-crowdfunding {
     margin-right: 150px;
   }
@@ -787,7 +810,7 @@ margin-right: auto;
     padding-left: 420px;
     padding-right: 420px;
   }
- 
+
   .share-crowdfunding {
     margin-right: 300px;
   }
@@ -822,7 +845,7 @@ margin-right: auto;
     padding-left: 570px;
     padding-right: 570px;
   }
- 
+
   .share-crowdfunding {
     margin-right: 450px;
   }
