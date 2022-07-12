@@ -1,4 +1,4 @@
-- Prototype:        https://prototyp.lokalpetition.de
+- Prototype:        https://app.lokalpetition.de
 
 ## Links
 - Linktree:         https://linktr.ee/LocalPetition
